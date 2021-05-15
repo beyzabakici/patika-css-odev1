@@ -1,0 +1,17 @@
+.header {
+    background-color: #e1e5ea;
+}
+
+.title {
+    color: #da7f8f;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+
+}
+
+.section {
+    text-align: center;
+}
